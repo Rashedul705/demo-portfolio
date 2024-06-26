@@ -11,3 +11,24 @@ h1{
 .Aboutme{
     text-decoration: underline;
 }
+
+.Skills{
+    
+    kground-color: aqua;
+    text-align: center;
+   
+}
+.skills-coulmn1{
+    background-color: aqua;
+
+}
+
+.table-column2{
+    text-align: center;
+    font-size: 15px;
+
+}
+.table-size{
+    border-radius: 50px;
+    margin: 20px;
+}

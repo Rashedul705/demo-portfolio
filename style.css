@@ -25,6 +25,23 @@ section {
     padding: 0px 20px 20px 20px;
 }
 
+.Hire-me {
+    margin-top: 20px;
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(orange, rgb(241, 207, 11));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(bg1.jpg);
+}
+
+.bg-color {
+    background-color: antiquewhite;
+}
+
 .Aboutme {
     text-decoration: underline;
 }

@@ -1,34 +1,53 @@
-h1{
+h1 {
     text-align: center;
 }
-.About-Me{
-    background-color: aquamarine;
-    border-radius: 50px;
-    margin: 10px 50px 20px 50px;
-    padding: 10px 50px 20px 50px ;
+
+.color-my-name {
+    color: rgb(218, 24, 185);
 }
 
-.Aboutme{
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.About-Me {
+    background-color: aquamarine;
+    border-radius: 50px;
+    margin: 0px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
+}
+
+.Aboutme {
     text-decoration: underline;
 }
 
-.Skills{
-    
+.Skills {
+
     background-color: aqua;
     text-align: center;
-   
+
 }
-.skills-coulmn1{
+
+.skills-coulmn1 {
     background-color: aqua;
 
 }
 
-.table-column2{
+.table-column2 {
     text-align: center;
     font-size: 15px;
 
 }
-.table-size{
+
+.table-size {
     border-radius: 50px;
     margin: 20px;
 }
